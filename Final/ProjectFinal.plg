@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\3 STUDY\Embedded System\Final\ProjectFinal.uvproj
+Project File Date:  05/23/2017
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling startup_stm32f40xx.s...
+linking...
+.\ProjectFinal.axf: Warning: L6665W: Neither Lib$$Request$$armlib Lib$$Request$$cpplib defined, not searching ARM libraries.
+.\ProjectFinal.axf: Error: L6411E: No compatible library exists with a definition of startup symbol __main.
+".\ProjectFinal.axf" - 1 Errors, 1 Warning(s).
+Target not created
